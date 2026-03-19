@@ -1,2 +1,2 @@
 version,url,date,notes
-2.5.0,https://github.com/bartods/EON/firmware/firmware.bin,2026-03-18,OTA update; billing per-minutowy FIFO; ESP-NOW v2.4 CRC16; aktywne bledy czujnikow; status zabiegu
+2.5.1,https://github.com/bartods/EON/firmware/firmware.bin,2026-03-18,OTA update; billing per-minutowy FIFO; ESP-NOW v2.4 CRC16; aktywne bledy czujnikow; status zabiegu
